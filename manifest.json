@@ -1,7 +1,7 @@
 {
   "description": "Bananawallet for BananaChain, A Fun solana Fork",
   "version": "0.1.0",
-  "name": "Banana Wallet",
+  "name": "Banana Wallet (DEV)",
   "manifest_version": 3,
   "action": {
     "default_popup": "popup.html"
